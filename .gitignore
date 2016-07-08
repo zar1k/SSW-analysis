@@ -26,3 +26,11 @@ nbactions.xml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+.svn/
+build.xml
+config.properties
+database.txt
+lozova-ec1.bithelp
+lozova-ec2.bithelp
+manifest.mf
+test/
